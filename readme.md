@@ -7,3 +7,9 @@ Method 1:
 
 Method 2:
     => In the 2nd method, the JSON format objects are compared using the method 'isEqual' by importing the library 'Lodash'.
+
+Task 2:
+    Using Rest API https://restcountries.com/v3.1/all and display all the country flags in the console.
+
+Task 3:
+    Using rest API to print all countries, region, subregion
